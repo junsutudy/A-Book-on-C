@@ -6,10 +6,17 @@
 //     return 0;
 // }
 
+// int main()
+// {
+//     printf("from sea to ");
+//     printf("shining C");
+//     printf("\n");
+//     return 0;
+// }
+
 int main()
 {
-    printf("from sea to ");
-    printf("shining C");
-    printf("\n");
+    printf("from sea\n");
+    printf("to shining\nC\n");
     return 0;
 }
