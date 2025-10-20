@@ -2,5 +2,6 @@
 
 int main()
 {
-    printf("Hello World!");
+    printf("from sea to shining C\n");
+    return 0;
 }
